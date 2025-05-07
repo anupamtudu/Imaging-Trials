@@ -29,7 +29,7 @@ This project addresses the task of **automated video captioning**, where a syste
 
 - 🧩 Encoder: CNN feature extractor (ResNet152)
 - ⏱️ LSTM Encoder → Attention Layer → LSTM Decoder
-- 🔤 Tokenized captions with <PAD>, <SOS>, <EOS>, <UNK>
+- 🔤 Tokenized captions with `<PAD>`, `<SOS>`, `<EOS>`, `<UNK>`
 - 🔎 Beam search for inference
 
 ---
