@@ -45,4 +45,4 @@ cd Imaging-Trials
 
 ![Team](assets/images/img1.png)
 
-❤️ Made with Love by the Imaging Trials Team
+Made with ❤️ by the Imaging Trials Team
