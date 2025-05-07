@@ -23,7 +23,7 @@ This project addresses the task of **automated video captioning**, where a syste
 
 ### 🔗 Click to Watch
 
-[![Watch the demo](assets/images/img2)](https://youtu.be/BR8bEPEYJBM)
+[![Watch the demo]([assets/images/img2](https://github.com/anupamtudu/Imaging-Trials/blob/main/assets/images/img2.png))](https://youtu.be/BR8bEPEYJBM)
 
 ## 🧠 Model Architecture
 
